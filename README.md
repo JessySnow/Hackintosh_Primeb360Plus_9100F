@@ -22,3 +22,7 @@ SMBIOS info should be regenerated, and type into config.plist by your self.
 - USBToolBox
 - ProperTree
 - GenSMBIOS
+
+## Issues
+
+- AppleALC won't work
