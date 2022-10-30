@@ -1,5 +1,10 @@
-# Hackintosh_Primeb360Plus_9100F
-OpenCore EFI for Intel 9th Core, with USB mapper.
+# OpenCore EFI
+OpenCore EFI for Intel 9th Core and Ausu Prime B360 Plus, with build in USB mapper.
+
+## OpenCore version
+[OpenCore_0.85_Debug](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.5)
+
+
 
 ## Hardware
 
