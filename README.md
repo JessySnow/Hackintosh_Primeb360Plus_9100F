@@ -26,3 +26,7 @@ SMBIOS info should be regenerated, and type into config.plist by your self.
 ## Issues
 
 - AppleALC won't work
+
+## Things can be do better
+
+- Manually compile ACPI files
